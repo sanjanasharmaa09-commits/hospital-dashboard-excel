@@ -6,7 +6,7 @@ An interactive **Hospital Emergency Room Dashboard** built entirely in **Microso
 
 ##  Dashboard Preview
 
-![Hospital ER Dashboard](dashboard_preview.png)
+![Hospital ER Dashboard](hospital_dashboard.png)
 
 ---
 
