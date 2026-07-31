@@ -48,7 +48,6 @@ The raw dataset contains **9,216 patient records** with the following columns:
 | Patient Wait Time | Time spent waiting (in minutes) |
 | Patients CM | Case management flag |
 
----
 
 ##  Dashboard Features
 
@@ -102,8 +101,6 @@ The raw dataset contains **9,216 patient records** with the following columns:
 - **56% of patients** were attended to on time; 44% experienced delays
 - Female patients (52%) slightly outnumber male patients (48%)
 - Average wait time of ~35 minutes indicates moderate ER load
-
----
 
 ##  Tags
 
