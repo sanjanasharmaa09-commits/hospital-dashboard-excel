@@ -112,11 +112,11 @@ The raw dataset contains **9,216 patient records** with the following columns:
 
 **Sanjana Sharma**
 Student – Web Application Development & Data Science
-Graphic Era Hill University, Bhimtal Campus
+Graphic Era Hill University
 
 ---
 
-## 📄 License
+##  License
 
 This project is open source and available for educational use.
 
