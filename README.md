@@ -23,7 +23,7 @@ hospital-er-dashboard-excel/
 
 ---
 
-## 📌 About the Project
+## About the Project
 
 This dashboard was created to analyze and visualize emergency room data for a hospital covering the years **2023 and 2024**. It provides hospital administrators and analysts with a clear overview of patient flow, wait times, department referrals, and satisfaction scores — all in one interactive Excel sheet.
 
